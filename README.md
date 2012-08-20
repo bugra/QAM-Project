@@ -4,9 +4,9 @@ Quadrature Amplitude Modulation Project
 Takes an input signal(0-4kHz) and yields an output signal centered around 30 kHz in order to transmit. Both transmitter and receiver parts are implemented in Matlab.   
 
 Transmitter Part:  
-![Alt text](https://bugra.github.com/QAM-Project/img/QAM_transmitter.svg "Transmitter")  
+![Alt text](https://raw.github.com/bugra/QAM-Project/master/img/QAM_transmitter.svg "Transmitter")  
 Receiver Part:  
-![Alt text](http://github.com/bugra/QAM-Project/raw/master/img/QAM_receiver.svg "Receiver")  
+![Alt text](https://raw.github.com/bugra/QAM-Project/master/img/QAM_receiver.svg "Receiver")  
 ##MatlabSimulation.m 
 It takes a synthetic signal(cosine signal) and returns the output of the procedure in the Matlab Simulation folder.
 ##SoundMatlabSimulation.m
