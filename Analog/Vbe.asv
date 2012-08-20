@@ -1,0 +1,3 @@
+Vbe=1V;
+Rb=220;
+Ib=Vbe/Rb;
